@@ -11,6 +11,8 @@
 * На сервере rrobin должна быть балансировка нагрузки серверов web1 и web2;
 * Установка и настройка должна быть Ansible-сценарием;
 * Создать playbook, где расписываем роли  web1, web2, rrobin
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MZKhJzv/index.jpg" alt="index" border="0"></a>
 
 #### Используемые команды:
